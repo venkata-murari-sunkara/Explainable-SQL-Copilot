@@ -6,8 +6,8 @@ An AI-powered SQL assistant that converts natural language questions into SQL qu
 
 ## 🌐 Live Demo
 
-* **Frontend (Streamlit App):** [Try it here](your-streamlit-url)
-* **Backend API (Swagger Docs):** [View API docs](your-render-url/docs)
+* **Frontend (Streamlit App):** [Try it here](https://explainable-sql-copilot-q75hqpetgu3zxbaynczk3u.streamlit.app/)
+* **Backend API (Swagger Docs):** [View API docs](https://explainable-sql-copilot-api.onrender.com/docs)
 
 > ⚠️ Note: The backend is hosted on Render's free tier and may take 30–60 seconds to wake up if it has been inactive. Please be patient on first load.
 
