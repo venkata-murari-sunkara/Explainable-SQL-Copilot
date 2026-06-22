@@ -28,12 +28,13 @@ An AI-powered SQL assistant that converts natural language questions into SQL qu
 
 ---
 
-📊 Project Highlights
-Supports dynamic CSV uploads and schema inference
-Handles datasets with 1,000+ rows and arbitrary schemas
-Generates schema-aware PostgreSQL queries using Gemini 2.5 Flash
-Prevents destructive SQL operations through multi-layer validation
-Produces automatic visualizations for analytical queries
+## 📊 Project Highlights
+
+- Supports dynamic CSV uploads and schema inference
+- Handles datasets with 1,000+ rows and arbitrary schemas
+- Generates schema-aware PostgreSQL queries using Gemini 2.5 Flash
+- Prevents destructive SQL operations through multi-layer validation
+- Produces automatic visualizations for analytical queries
 
 ---
 
