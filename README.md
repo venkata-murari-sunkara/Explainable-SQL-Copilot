@@ -158,7 +158,7 @@ SQL_Copilot_Project/
 
 ```bash
 git clone https://github.com/venkata-murari-sunkara/explainable-sql-copilot.git
-cd explainable-sql-copilot
+cd Explainable-Sql-Copilot
 ```
 
 ### 2. Set Up Virtual Environment
