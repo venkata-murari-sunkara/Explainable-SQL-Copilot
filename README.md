@@ -1,6 +1,6 @@
 # Explainable SQL Copilot 🤖
 
-An AI-powered SQL assistant that converts natural language questions into SQL queries, explains the generated SQL in plain English, safely validates the query, executes it against a PostgreSQL database, and visualizes the results.
+Explainable SQL Copilot is an AI-powered analytics assistant that transforms natural language into safe PostgreSQL queries, explains query logic in plain English, validates generated SQL against live schemas, and visualizes results through interactive dashboards.
 
 ---
 
