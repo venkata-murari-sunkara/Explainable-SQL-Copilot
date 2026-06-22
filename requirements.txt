@@ -1,0 +1,20 @@
+# Backend dependencies
+fastapi
+uvicorn
+
+# Frontend dependencies
+streamlit
+requests
+
+# Database dependencies
+sqlalchemy
+psycopg2-binary
+
+# AI dependencies
+google-genai
+
+# Other dependencies
+pandas
+python-dotenv
+python-multipart
+plotly
