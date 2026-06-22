@@ -74,13 +74,16 @@ Produces automatic visualizations for analytical queries
 
 ## 📸 Demo
 
-
+Dataset Upload
 ![Dataset Upload](assets/ui_1.png)
 
+Generated SQL & Explanation
 ![Generated SQL & Explanation](assets/ui_2.png)
 
+Query Results
 ![Query Results](assets/ui_3.png)
 
+Data Visualization
 ![Data Visualization](assets/ui_4.png)
 
 ---
